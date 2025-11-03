@@ -15,30 +15,30 @@ Email: contact (at) [my first name] (dot) net
 [[paper](https://arxiv.org/pdf/2411.04975)]
 [[code](https://github.com/snowflakedb/ArcticInference/tree/main/csrc/suffix_decoding)]
 [[blog](https://www.snowflake.com/en/engineering-blog/fast-speculative-decoding-vllm-arctic/)]\
-*Gabriele Oliaro, Zhihao Jia, Daniel Campos, **Aurick Qiao**.*\
+_Gabriele Oliaro, Zhihao Jia, Daniel Campos, **Aurick Qiao**._\
 NeurIPS’25 **Spotlight** ⭐
 
 **SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation**
 [[paper](https://arxiv.org/pdf/2410.03960)]
 [[code](https://github.com/snowflakedb/ArcticTraining/tree/main/projects/swiftkv)]
 [[blog](https://www.snowflake.com/en/blog/up-to-75-lower-inference-cost-llama-meta-llm/)]\
-***Aurick Qiao**, Zhewei Yao, Samyam Rajbhandari, Yuxiong He.*\
+_**Aurick Qiao**, Zhewei Yao, Samyam Rajbhandari, Yuxiong He._\
 EMNLP’25
 
 **LLM360: Towards Fully Transparent Open-source LLMs**
 [[paper](https://arxiv.org/pdf/2312.06550)]
 [[website](https://www.llm360.ai/)]\
-*Zhengzhong Liu, **Aurick Qiao**, Willie Neiswanger, Hongyi Wang, Bowen Tan, Tianhua Tao, Junbo Li, Yuqi Wang, Suqi Sun, Omkar Pangarkar, Richard Fan, Yi Gu, Victor Miller, Yonghao Zhuang, Guowei He, Haonan Li, Fajri Koto, Liping Tang, Nikhil Ranjan, Zhiqiang Shen, Xuguang Ren, Roberto Iriondo, Cun Mu, Zhiting Hu, Mark Schulze, Preslav Nakov, Tim Baldwin, Eric P Xing.*\
+_Zhengzhong Liu, **Aurick Qiao**, Willie Neiswanger, Hongyi Wang, Bowen Tan, Tianhua Tao, Junbo Li, Yuqi Wang, Suqi Sun, Omkar Pangarkar, Richard Fan, Yi Gu, Victor Miller, Yonghao Zhuang, Guowei He, Haonan Li, Fajri Koto, Liping Tang, Nikhil Ranjan, Zhiqiang Shen, Xuguang Ren, Roberto Iriondo, Cun Mu, Zhiting Hu, Mark Schulze, Preslav Nakov, Tim Baldwin, Eric P Xing._\
 COLM’23
 
 **Pollux: Co-adaptive Cluster Scheduling for Goodput-optimized Deep Learning**
 [[paper](https://www.usenix.org/system/files/osdi21-qiao.pdf)]
 [[code](https://github.com/petuum/adaptdl/tree/osdi21-artifact)]\
-***Aurick Qiao**, Sang Keun Choe, Suhas Jayaram Subramanya, Willie Neiswanger, Qirong Ho, Hao Zhang, Gregory R Ganger, Eric P Xing.*\
+_**Aurick Qiao**, Sang Keun Choe, Suhas Jayaram Subramanya, Willie Neiswanger, Qirong Ho, Hao Zhang, Gregory R Ganger, Eric P Xing._\
 OSDI’21 **Best Paper Award** ⭐
 
 **Managed Communication and Consistency for Fast Data-parallel Iterative Analytics**
 [[paper](https://dl.acm.org/doi/pdf/10.1145/2806777.2806778)]
 [[code](https://github.com/sailing-pmls/bosen)]\
-*Jinliang Wei, Wei Dai, **Aurick Qiao**, Qirong Ho, Henggang Cui, Gregory R Ganger, Phillip B Gibbons, Garth A Gibson, Eric P Xing.*\
+_Jinliang Wei, Wei Dai, **Aurick Qiao**, Qirong Ho, Henggang Cui, Gregory R Ganger, Phillip B Gibbons, Garth A Gibson, Eric P Xing._\
 SoCC’15 **Best Paper Award** ⭐
